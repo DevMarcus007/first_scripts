@@ -1,2 +1,5 @@
-# Programas_de_Teste_Para_Avaliacao
- Pequenos programas de teste. Aceito criticas e sugestões.
+# First Scripts
+
+Commits from the beginning of the journey studying Python.
+
+
